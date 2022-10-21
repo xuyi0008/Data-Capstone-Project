@@ -1,0 +1,34 @@
+Predictive App Slides
+========================================================
+author: Xu YingYing
+date: 21 Oct 2022
+autosize: true
+
+Overview of Objective
+========================================================
+This app consists of a predictive algorithm that takes in the input of a phrase (multiple words) in a text box input and outputs a prediction of the next word.
+
+The app is intending to achieve the following:
+
+- Is able to accept input
+- Able to provide prediction of a single word after pressing submit and/or a suitable delay for the model to compute the answer
+
+Description of Algorithm
+========================================================
+The algorithm is built on R. 
+
+The data is first cleaned and sorted. A shiny server code and UI code are then written to tap on the data as source data for the app.
+
+How the App Works & Use Cases
+========================================================
+The link below will direct you to a webpage with an empty text input field. you are free to input any english word in the field. The algorithm will then output the prediction of the next word, most commonly associated with the input word.
+
+This algorithm may be used in cellphone keyboard applications to improve user experience.
+
+Link to Shiny App
+========================================================
+Link to Shiny App is as follows:
+https://xuyi0007.shinyapps.io/Data-Capstone-Project/
+
+
+Try it to believe it!
